@@ -1,0 +1,19 @@
+services:
+  jupyter:
+    image: quay.io/jupyter/datascience-notebook:python-3.11.9
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "127.0.0.1:8888:8888"
+    volumes:
+      - type: bind
+        source: ./docker/.jupyter/jupyter_lab_config.py
+        target: /home/jovyan/.jupyter/jupyter_lab_config.py
+      - ./notebooks:/home/jovyan/notebooks  # notebooks ディレクトリをコンテナ内にマウント
+      - ./data:/home/jovyan/data  # data ディレクトリをコンテナ内にマウント
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    container_name: data-mining-container
+    command: >
+      bash -c "cd /home/jovyan && start-notebook.sh && echo 'Jupyter Lab started at http://127.0.0.1:8888' && tail -f /dev/null"
