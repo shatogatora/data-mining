@@ -1,0 +1,406 @@
+ 
+３ 【事業の内容】当社グループは、当社並びに子会社37社・関連会社２社で構成され、専ら圧縮機、真空機器並びに塗装機器・設備の製造販売を行っており、製品市場・製品用途等の類似性から単一事業構成となっております。当社と子会社並びに関連会社の当該事業における位置付けは、次の系統図のとおりであります。 
+
+ 
+
+
+
+
+
+
+
+
+ 名 称 
+
+国及び地域
+
+ 主要な事業の内容
+
+
+
+当社[日本] 
+
+　
+
+　
+
+
+
+アネスト岩田株式会社
+
+日本
+
+ 圧縮機、真空機器、塗装機器、塗装設備の製造販売
+
+
+
+連結子会社
+
+　
+
+　
+
+
+
+[日本]
+
+　
+
+　
+
+
+
+ アネスト岩田コンプレッサ株式会社※
+
+日本
+
+ 圧縮機、真空機器の販売及び修理
+
+
+
+ アネスト岩田コーティングソリューションズ 株式会社※
+
+日本
+
+ 塗装機器の販売及び修理、塗装設備の製造販売及び  修理
+
+
+
+ エアエンジニアリング株式会社
+
+日本
+
+ 圧縮機の修理及び付帯工事
+
+
+
+[ヨーロッパ]
+
+　
+
+　
+
+
+
+ ANEST IWATA Deutschland GmbH
+
+ドイツ
+
+ 塗装機器の販売 
+
+
+
+ ANEST IWATA Europe GmbH
+
+ドイツ
+
+ 圧縮機の製造販売、真空機器の販売
+
+
+
+ HARDER & STEENBECK GmbH & Co.KG
+
+ドイツ
+
+ 塗装機器の製造販売
+
+
+
+ ANEST IWATA STRATEGIC CENTER s.r.l.
+
+イタリア
+
+ 塗装機器、塗装設備の製造販売
+
+
+
+ Anest Iwata Italia s.r.l.
+
+イタリア
+
+ 塗装機器の販売
+
+
+
+ ANEST IWATA France S.A.
+
+フランス
+
+ 圧縮機、塗装機器、塗装設備の販売
+
+
+
+ ANEST IWATA (U.K.) Ltd.
+
+イギリス
+
+ 塗装機器、塗装設備の販売
+
+
+
+ Anest Iwata Scandinavia AB
+
+スウェーデン
+
+ 塗装機器の販売
+
+
+
+ ANEST IWATA Iberica,S.L.
+
+スペイン
+
+ 塗装機器の販売
+
+
+
+ ANEST IWATA Polska Sp.z o.o.
+
+ポーランド
+
+ 塗装機器の販売 
+
+
+
+[アジア]
+
+　
+
+　
+
+
+
+上海阿耐思特岩田塗装機械有限公司
+
+中国
+
+ 塗装機器の製造販売
+
+
+
+嘉興阿耐思特岩田産業機械有限公司
+
+中国
+
+ 塗装機器、塗装設備の製造販売
+
+
+
+ 阿耐思特岩田産業機械（上海）有限公司
+
+中国
+
+ 塗装機器の販売
+
+
+
+東莞阿耐思特岩田機械有限公司
+
+中国
+
+ 塗装設備の製造販売
+
+
+
+杭州阿耐思特岩田友佳空圧機有限公司※
+
+中国
+
+ 圧縮機の製造販売
+
+
+
+上海斯可絡圧縮機有限公司※
+
+中国
+
+ 圧縮機の製造販売
+
+
+
+上海格什特螺杆科技有限公司
+
+中国
+
+ 圧縮機の製造販売
+
+
+
+岩田友嘉精機股分有限公司
+
+台湾
+
+ 圧縮機、真空機器の販売、塗装機器の製造販売
+
+
+
+ANEST IWATA SPARMAX Co., Ltd.
+
+台湾
+
+ 圧縮機、塗装機器の製造販売
+
+
+
+ANEST IWATA MOTHERSON Pvt. Ltd.※
+
+インド
+
+ 圧縮機の製造販売
+
+
+
+ANEST IWATA MOTHERSON COATING EQUIPMENT Pvt. Ltd.
+
+インド
+
+ 塗装機器、塗装設備の製造販売
+
+
+
+ANEST IWATA SOUTHEAST ASIA Co.,Ltd.
+
+タイ
+
+ 圧縮機、真空機器、塗装機器、塗装設備の製造販売
+
+
+
+ANEST IWATA Korea Corp.
+
+韓国
+
+ 圧縮機、真空機器、塗装機器、塗装設備の製造販売
+
+
+
+ANEST IWATA Vietnam Co.,Ltd.
+
+ベトナム
+
+ 圧縮機、塗装機器、塗装設備の販売
+
+
+
+PT.ANEST IWATA INDONESIA
+
+インドネシア
+
+ 圧縮機、真空機器、塗装機器、塗装設備の販売
+
+
+
+[その他の地域]
+
+　
+
+　
+
+
+
+ANEST IWATA USA, Inc.
+
+アメリカ
+
+ 塗装機器の販売、塗装設備の製造販売
+
+
+
+ANEST IWATA-Medea, Inc.
+
+アメリカ
+
+ 塗装機器の製造販売
+
+
+
+ANEST IWATA AIR ENGINEERING,Inc.
+
+アメリカ
+
+ 圧縮機、真空機器の製造販売
+
+
+
+ANEST IWATA Mexico, S. de R.L. de C.V.  
+
+メキシコ
+
+ 塗装機器、塗装設備の販売
+
+
+
+ ANEST IWATA DO BRASIL COMERCIAL LTDA.
+
+ブラジル
+
+ 塗装機器の販売
+
+
+
+ AIRZAP-ANEST IWATA INDUSTRIA E COMERCIO   LTDA.
+
+ブラジル
+
+ 圧縮機、真空機器の製造販売
+
+
+
+ANEST IWATA Australia Pty. Ltd.
+
+オーストラリア
+
+ 圧縮機、塗装機器の販売
+
+
+
+ANEST IWATA RUS LLC
+
+ロシア
+
+ 真空機器、塗装機器の販売
+
+
+ 
+
+
+
+
+
+
+
+
+
+ANEST IWATA South Africa (Pty) Ltd.
+
+南アフリカ
+
+ 塗装機器の販売
+
+
+
+関連会社(持分法適用)
+
+　
+
+　
+
+
+
+ 株式会社アドバン理研
+
+日本
+
+ 酸素ガス、窒素ガス、オゾンガス発生装置の製造販売
+
+
+
+ Powerex-Iwata Air Technology, Inc.
+
+アメリカ
+
+ 圧縮機の製造販売
+
+
+ 
+　　 (注) 1.※印を記載した会社は特定子会社であります。           2.ANEST IWATA Babatz GmbHはANEST IWATA Europe GmbHを吸収合併し、社名をANEST IWATA Europe GmbHに            変更いたしました。          3.持分法適用関連会社でありましたヨーロッパのAnest Iwata Italia s.r.l.は、持分の追加取得により連結            子会社化いたしました。          4.小形圧縮機の販売拡大のため、台湾の小形圧縮機メーカから事業を譲り受けたANEST IWATA SPARMAX            Co.,Ltd. (旧社名：漢申股份有限公司）を連結子会社化いたしました。          5.中国の阿耐思特岩田（上海）商貿有限公司およびアラブ首長国連邦のANEST IWATA MIDDLE EAST FZEは清算            いたしました。

@@ -1,0 +1,190 @@
+３【事業の内容】
+　当社グループは、当社及び連結子会社24社（MIMAKI USA, INC.、MIMAKI EUROPE B.V.、台湾御牧股份有限公司、㈱ミマキプレシジョン、㈱グラフィッククリエーション、御牧噴墨打印科技（浙江）有限公司、Mimaki Deutschland GmbH、上海御牧貿易有限公司、MIMAKI BRASIL COMERCIO E IMPORTACAO LTDA、平湖御牧貿易有限公司、PT. MIMAKI INDONESIA、MIMAKI AUSTRALIA PTY LTD、MIMAKI SINGAPORE PTE. LTD.、MIMAKI INDIA PRIVATE LIMITED、MIMAKI EURASIA DIJITAL BASKI TEKNOLOJILERI PAZARLAMA VE TICARET LIMITED SIRKETI、Mimaki La Meccanica S.p.A、Mimaki Lithuania, UAB、Mimaki Bompan Textile S.r.l、アルファーデザイン㈱、㈱アルファーシステムズ、㈱アルファーテック、㈱砺波製作所、㈱楽日、MIMAKI (THAILAND) CO., LTD.）、その他４社（MIMAKI KANPHOR INDIA PRIVATE LIMITEDほか）の計29社により構成され、産業用インクジェットプリンタ、カッティングプロッタ等の開発・製造・販売を主たる業務とした事業を営んでおり、報告セグメントは地域別としております。
+
+　また、エンドユーザーの属する市場別に分類した事業の内容は次のとおりであります。
+
+(1）SG（サイングラフィックス）市場向け
+　広告・看板等の製作に使用される製品を、サイングラフィックス市場向けとして開発・製造・販売しております。環境への配慮、素材の多様化、高付加価値化等、高いレベルのデジタル化が求められる同市場に向けて、環境に優しいインク、様々な用途に対応できるインクジェットプリンタ、文字・ロゴ・イラスト等の輪郭を正確にカットできるカッティングプロッタ等を提供しております。
+(2）IP（インダストリアルプロダクツ）市場向け
+　工業製品のほか、一般消費者向けの商品やギフト、ノベルティ、オーダーグッズ等の生産現場等で使用される製品を、インダストリアルプロダクツ市場向けとして開発・製造・販売しております。ユーザーの利便性向上やコスト削減に貢献するために、対象業種を問わず多種多様な素材にプリントできるフラットベッド型のUV硬化インクジェットプリンタやカッティングプロッタ等を提供しております。
+(3）TA（テキスタイル・アパレル）市場向け
+
+　裁断・縫製加工前の生地（テキスタイル）や既製服（アパレル）等の布地にプリント可能な製品を、テキスタイル・アパレル市場向けとして開発・製造・販売しております。バリューチェンの転換を含めたデジタルトランスフォーメーションの進展が想定される中で、消費地・生産地・ブランドオーナーに向けて、インクジェットプリンタを中心に環境への配慮と生産性の高い生産システムを提案しております。
+
+
+(4）保守部品
+
+
+　当社製品をお使いいただくうえで必要なアフターメンテナンスに要する部品が該当いたします。
+
+(5）その他
+　上記のいずれの市場にも属さない機種の製造・販売やプリントサービス等が該当いたします。
+
+［市場別分類略図］
+
+
+
+
+ 
+
+［セグメント別会社分類略図］
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+セグメントの名称
+
+
+会　社　名　称
+
+
+
+
+日本・アジア・
+オセアニア
+
+
+販売会社
+
+
+当社
+上海御牧貿易有限公司
+
+台湾御牧股份有限公司
+
+
+PT. MIMAKI INDONESIA
+
+
+MIMAKI AUSTRALIA PTY LTD
+
+
+MIMAKI SINGAPORE PTE. LTD.
+
+
+MIMAKI INDIA PRIVATE LIMITED
+
+MIMAKI (THAILAND) CO., LTD.
+アルファーデザイン㈱
+㈱アルファーシステムズ
+㈱アルファーテック
+㈱砺波製作所
+
+
+
+
+製造会社
+
+
+当社
+㈱ミマキプレシジョン
+御牧噴墨打印科技（浙江）有限公司
+
+台湾御牧股份有限公司
+
+アルファーデザイン㈱
+㈱アルファーシステムズ
+㈱アルファーテック
+㈱砺波製作所
+
+
+
+
+プリント
+サービス会社
+
+
+㈱グラフィッククリエーション
+
+
+
+
+グッズ企画
+販売会社
+
+
+㈱楽日
+
+
+
+
+北・中南米
+
+
+販売会社
+
+
+MIMAKI USA,INC.
+
+MIMAKI BRASIL COMERCIO E IMPORTACAO LTDA
+
+
+
+
+
+欧州・中東・
+
+アフリカ
+
+
+
+販売会社
+
+
+MIMAKI EUROPE B.V.
+Mimaki Deutschland GmbH
+MIMAKI EURASIA DIJITAL BASKI TEKNOLOJILERI PAZARLAMA
+    VE TICARET LIMITED SIRKETI
+
+Mimaki Lithuania, UAB
+
+Mimaki Bompan Textile S.r.l
+
+
+
+
+製造会社
+
+
+MIMAKI EUROPE B.V.
+
+Mimaki La Meccanica S.p.A
+
+
+Mimaki Lithuania, UAB
+
+
+
+
+
+
+ 
+
+（注）㈱アルファーシステムズは、2019年４月に㈱アルファーテックを吸収合併しております。
+
+
+［事業系統図］
+
+
+
+
+
+ （注）１．全て連結子会社であります。
+
+
+２．㈱アルファーシステムズは、2019年４月に㈱アルファーテックを吸収合併しております。
+
+ 

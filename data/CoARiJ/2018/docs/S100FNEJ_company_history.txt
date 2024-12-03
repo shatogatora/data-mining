@@ -1,0 +1,365 @@
+ 
+２ 【沿革】 
+
+
+
+
+
+
+
+年月
+
+事項
+
+
+
+1984年２月
+
+「有限会社アクセス」(出資金１百万円、本社：東京都千代田区)設立。
+
+
+
+1986年９月
+
+オリジナルのTCP/IP「AVE-TCP」を開発、製品化。
+
+
+
+1996年２月
+
+インターネット閲覧ソフトウェア「NetFront®」(現「NetFront®Browser」)を開発。インターネットテレビ、ワープロ専用機に搭載。
+
+
+
+11月
+
+「有限会社アクセス」を「株式会社アクセス」(資本金50百万円、本社：東京都千代田区)に組織変更。
+
+
+
+1998年２月
+
+携帯電話向けコンパクトHTMLブラウザ「Compact NetFront®」(現「NetFront®Browser」)を開発。
+
+
+
+1999年２月
+
+「Compact NetFront」をエヌ・ティ・ティ移動通信網株式会社(現：株式会社エヌ・ティ・ティ・ドコモ)の「iモード」向け携帯電話(三菱電機、富士通、日本電気)に搭載。
+
+
+
+７月
+
+「ACCESS Systems America Inc.」(資本金600千米ドル、当社出資比率100％)設立。
+
+
+
+2000年４月
+
+「株式会社アクセス」を「株式会社ACCESS」に商号変更。
+
+
+
+2001年２月
+
+東京証券取引所マザーズ市場に株式上場。(証券コード：4813)
+
+
+
+７月
+
+「株式会社アクセス・パブリッシング」(資本金200百万円、当社出資比率100％)設立。「ACCESS Systems Europe GmbH」(出資金1,800千ユーロ、当社出資比率94.0％)設立。
+
+
+
+2002年８月
+
+「ACCESS China Inc.」(資本金630千米ドル、当社出資比率94.0％)設立。同社100％子会社「ACCESS (Beijing) Co., Ltd.」(資本金300千米ドル)設立。
+
+
+
+2003年７月
+
+「株式会社ヴィ・ソニック」(資本金118百万円、当社出資比率100％)を子会社化。
+
+
+
+８月
+
+「株式会社ヴィ・ソニック」を「株式会社ACCESS北海道」に商号変更。
+
+
+
+11月
+
+ISO9001の認証を取得。
+
+
+
+2004年２月
+
+アメリカ合衆国カリフォルニア州に米国支店を開設。
+
+
+
+６月
+
+「ACCESS Systems America Inc.」を清算。
+
+
+
+８月
+
+「C-Valley Inc.」(資本金1,500千米ドル、当社出資比率100％、議決権比率50.0％)に出資、子会社化。同社100％子会社「C-Valley (Beijing) Information Technology Co., Ltd.」も子会社化。
+
+
+
+2005年11月
+
+「RedSpyder Inc.」(資本金100千米ドル、議決権比率16.7％)に出資、子会社化。「PalmSource Inc.」(資本金23,183千米ドル、当社出資比率100％)を買収、子会社化。同社子会社「China MobileSoft Inc.」及びその子会社の「MobileSoft Technology (Nanjing)」、「PalmSource Europe SARL」も子会社化。
+
+
+
+2006年２月
+
+「Naraworks Inc.」の株式を取得し、「ACCESS Seoul Co., Ltd.」(資本金200,000千ウォン、当社出資比率100％)に商号変更、子会社化。
+
+
+
+３月
+
+「IP Infusion Inc.」(資本金20,165千米ドル、当社出資比率100％)の株式を取得、子会社化。
+
+
+
+10月
+
+「PalmSource Inc.」を「ACCESS Systems Americas Inc.」に商号変更。
+
+
+
+11月
+
+「PalmSource Europe SARL」を「ACCESS Systems France SARL」に商号変更。
+
+
+
+2007年１月
+
+「China MobileSoft Inc.」及び「MobileSoft Technology (Nanjing)」を「ACCESS China Inc.」の子会社に再編。
+
+
+
+５月
+
+「MobileSoft Technology (Nanjing)」を「アクセス(南京)有限公司」に商号変更。
+
+
+
+９月
+
+「株式会社ACCESS北海道」を清算。
+
+
+
+10月
+
+「IP Infusion Inc.」を「ACCESS Systems Americas Inc.」の子会社として再編。
+
+
+ 
+ 　 
+
+
+
+
+
+
+
+年月
+
+事項
+
+
+
+2008年３月
+
+「ACCESS Systems Americas Inc.」から開発部門を切り離し「ACCESS Systems Americas USA Inc.」を設立し、「ACCESS Systems Americas Inc.」の子会社として再編。
+
+
+
+５月
+
+「ACCESS Systems Europe Holdings B.V.」(資本金11,000千ユーロ、当社出資比率100％)設立。
+
+
+
+７月
+
+「ACCESS Systems France SAS」を「ACCESS Systems Europe Holdings B.V.」の子会社として再編。
+
+
+
+10月
+
+「China MoblieSoft Inc.」を清算。
+
+
+
+2009年２月
+
+「ACCESS Systems Europe GmbH」を「ACCESS Systems Germany GmbH」に商号変更。
+
+
+
+４月
+
+「RedSpyder Holdings Ltd.」を売却。
+
+
+
+2010年２月
+
+「幕張研究開発センター」を千葉県千葉市美浜区に新設。
+
+
+
+10月
+
+本店を東京都千代田区猿楽町２丁目８番16号から同区猿楽町２丁目８番８号に移転。あわせて、「幕張研究開発センター」(千葉県千葉市美浜区)を「幕張オフィス」に改称。
+
+
+
+11月
+
+「IP Infusion Europe B.V.」をオランダに設立。
+
+
+
+12月
+
+「株式会社アクセス・パブリッシング」を清算。
+
+
+
+2011年１月
+
+「ACCESS Systems USA Inc.」を「ACCESS Systems Americas Inc.」に統合。
+
+
+
+１月
+
+「IP Infusion Software India Pvt. Ltd.」をインドに設立。
+
+
+
+２月
+
+「ACCESS Systems Germany GmbH」を「ACCESS Europe GmbH」に商号変更。
+
+
+
+12月
+
+「ACCESS China Inc.」を清算。
+
+
+
+2012年１月
+
+「IP Infusion Inc.」を存続会社とし、「ACCESS Systems Americas Inc.」を吸収合併。
+
+
+
+１月
+
+メディアサービス事業を東京カレンダー株式会社に会社分割。
+
+
+
+４月
+
+「IP Infusion (Nanjing) Co., Ltd.」の株式を売却。株式会社インターネットイニシアティブとの合弁会社「株式会社ストラトスフィア」を日本に設立。
+
+
+
+2014年12月
+
+「リトルソフト株式会社」(資本金44百万円、当社出資比率20.45％)の株式を取得。
+
+
+
+2015年10月
+
+「IP Infusion Europe B.V.」を清算。
+
+
+
+2016年１月
+
+「ACCESS Systems France SAS」を清算。
+
+
+
+１月
+
+「ACCESS AP Taiwan Co., Ltd.」を台湾に設立。
+
+
+
+１月
+
+「幕張オフィス」を売却。
+
+
+
+３月
+
+本店を東京都千代田区猿楽町２丁目８番８号から同区神田練塀町３番地に移転。
+
+
+
+９月
+
+「株式会社ノア」(資本金10百万円、当社出資比率100％)を子会社化。
+
+
+
+10月
+
+「株式会社ノア」を「株式会社ACCESS NOA」に商号変更。
+
+
+
+2017年２月
+
+「株式会社ミエルカ防災」(資本金129百万円、当社出資比率29.96％)の株式を取得。
+
+
+
+10月
+
+「株式会社ACCESS NOA」を「株式会社ACCESSテック」に商号変更。
+
+
+
+2018年８月
+
+「Northforge Innovations Inc.」（資本金13,013千加ドル、当社出資比率100％）を買収、子会社化。同社子会社「Northforge Innovations USA Inc.」、「Northforge Innovations Israel Ltd.」も子会社化。
+
+
+
+2019年１月
+
+「株式会社ACCESSテック」の子会社として「ACCESS Taiwan Lab. Co., Ltd.」を台湾に設立。
+
+
+
+４月
+
+「NetRange MMG GmbH」（出資金25千ユーロ、当社出資比率100％）を買収、子会社化。同社子会社「NetRange Automotive GmbH」も子会社化。
+
+
+ 

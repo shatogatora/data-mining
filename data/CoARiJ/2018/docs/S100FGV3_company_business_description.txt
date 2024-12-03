@@ -1,0 +1,198 @@
+ 
+３ 【事業の内容】当社の企業集団は、コンピュータセキュリティ対策製品の開発、販売及び関連サービスの提供を行っている当社ならびに北米、欧州、アジア・パシフィック、中南米地域の子会社と、関連会社としてモバイルデバイスプラットフォームサービスプロバイダであるGeneral Mobile Corporation等により構成されております。 
+(1) コンピュータセキュリティ対策製品の開発、販売に関する事業コンピュータセキュリティ対策製品群の名称
+
+
+
+
+
+
+
+
+
+
+PCクライアント製品
+
+LANサーバ製品
+
+インターネットサーバ製品
+
+統合製品
+
+その他製品
+
+
+ 
+ 当社及び連結子会社のグループ内におけるセグメントに関連づけた機能分担は以下の通りです。 
+
+
+
+
+
+
+
+
+  機能
+
+所在地別セグメント
+
+主要な会社
+
+
+
+　研究開発
+
+日本
+
+　トレンドマイクロ株式会社(当社)
+
+
+
+　
+
+北米
+
+　Trend Micro Incorporated(米国)
+
+
+
+　
+
+欧州
+
+　Trend Micro Ireland Limited
+
+
+
+　
+
+アジア・パシフィック
+
+　Trend Micro Australia Pty. Ltd.(オーストラリア)
+
+
+
+　販売
+
+日本
+
+　トレンドマイクロ株式会社(当社)
+
+
+
+　
+
+北米
+
+　Trend Micro Incorporated(米国)
+
+
+
+　
+
+　
+
+　Trend Micro Canada Technologies, Inc.(カナダ)
+
+
+
+　
+
+欧州
+
+　Trend Micro(EMEA)Limited(アイルランド)
+
+
+
+　
+
+アジア・パシフィック
+
+　Trend Micro Incorporated(台湾)
+
+
+
+　
+
+　
+
+　Trend Micro DMCC LLC (アラブ首長国連邦)
+
+
+
+　
+
+　
+
+　Trend Micro Australia Pty. Ltd.(オーストラリア)
+
+
+
+ 
+
+ 
+
+　Trend Micro(Singapore)Private Limited(シンガポール)
+
+
+
+ 
+
+ 
+
+  Trend Micro Korea Inc.(韓国）
+
+
+
+ 
+
+ 
+
+　Trend Micro Hong Kong Limited(香港)
+
+
+
+　
+
+中南米
+
+　Trend Micro do Brasil Ltda.(ブラジル)
+
+
+
+　
+
+　
+
+　Trend Micro Latinoamerica S.A. de C.V.(メキシコ)
+
+
+
+　業務支援
+
+北米
+
+　Trend Micro Canada Technologies, Inc.(カナダ)
+
+
+
+　
+
+アジア・パシフィック
+
+　Trend Micro Incorporated(台湾)
+
+
+
+ 
+
+ 
+
+　Trend Micro(China)Incorporated(中国)
+
+
+ 
+  事業の系統図は以下の通りであります。 
+
+
+(2) その他の事業モバイルデバイスプラットフォームおよびモバイルインターネットサービスにおけるトータルソリューションを提供するGeneral Mobile Corporationにより、コンピュータセキュリティ対策製品の開発、販売に関する事業以外の事業が行われております。 

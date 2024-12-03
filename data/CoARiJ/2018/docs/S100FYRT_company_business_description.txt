@@ -1,0 +1,148 @@
+３【事業の内容】
+当社グループ（当社及び当社の関係会社）は、当社、子会社43社、関連会社1社により構成されており、計測及びPQA（プロダクツ・クオリティ・アシュアランス）の開発、製造、販売を主たる事業とし、これらに附帯する保守、サービス等を行っているほか、不動産賃貸業を営んでおります。
+当社グループの事業内容及び当社と関係会社の当該事業に係る位置付けは次のとおりであります。
+なお、次の区分は「第５　経理の状況　１　連結財務諸表等　連結財務諸表注記」のセグメント情報の区分と同一であります。
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+区分
+
+
+主要製品名
+
+
+主要な会社
+
+
+
+
+
+
+計測
+
+
+デジタル通信・IPネットワーク用測定器、
+光通信用測定器、
+移動通信用測定器、
+RF・マイクロ波・ミリ波帯汎用測定器、
+サービス・アシュアランス
+
+
+当社、東北アンリツ㈱、
+アンリツカスタマーサポート㈱、
+アンリツエンジニアリング㈱、
+Anritsu Company（米国）、
+Anritsu Americas Sales Company（米国）、
+Azimuth Systems, Inc.（米国）、
+Anritsu Ltd.（英国）、Anritsu EMEA Ltd.（英国）、
+Anritsu Electronics Ltd.（カナダ）、
+Anritsu Eletronica Ltda.（ブラジル）、
+Anritsu Company S.A. de C.V.（メキシコ）、
+
+Anritsu GmbH（ドイツ）、
+
+
+Anritsu S.A.（フランス）、
+
+Anritsu S.r.l.（イタリア）、
+Anritsu AB（スウェーデン）、
+Anritsu Company Ltd.（香港）、
+Anritsu (China) Co., Ltd.（中国）、
+
+Anritsu Electronics (Shanghai) Co., Ltd.（中国）、
+
+Anritsu Corporation, Ltd.（韓国）、
+Anritsu Company, Inc.（台湾）、
+Anritsu Pte. Ltd.（シンガポール）、
+Anritsu India Private Ltd.（インド）、
+Anritsu Pty. Ltd.（オーストラリア）、
+Anritsu Philippines, Inc.（フィリピン）、
+Anritsu A/S (デンマーク)、
+Anritsu Solutions S.r.l.（イタリア）、
+Anritsu Solutions S.R.L.（ルーマニア）、
+Anritsu Solutions SK,s.r.o.（スロバキア）
+その他3社
+
+
+
+
+
+PQA
+
+
+
+自動重量選別機、
+自動電子計量機、
+異物検出機、
+総合品質管理・制御システム
+
+
+アンリツインフィビス㈱、
+
+Anritsu Industrial Solutions (Shanghai) Co., Ltd.（中国）、
+
+
+Anritsu Industrial Systems (Shanghai) Co., Ltd.（中国）、
+
+
+Anritsu Infivis Inc.（米国）、
+
+
+Anritsu Infivis Ltd.（英国）、
+
+
+Anritsu Infivis (THAILAND) Co., Ltd.（タイ）
+
+
+
+
+
+その他
+
+
+情報通信、
+デバイス、
+物流、
+厚生サービス、
+不動産賃貸、
+人事・経理事務処理業務、
+部品製造等
+
+
+当社、アンリツネットワークス㈱、
+東北アンリツ㈱、
+アンリツエンジニアリング㈱、
+アンリツデバイス㈱、
+アンリツ興産㈱、
+アンリツ不動産㈱、
+㈱アンリツプロアソシエ、
+ATテクマック㈱
+その他1社
+
+
+
+
+
+ 
+
+[事業系統図]
+
+
+以上述べた事項を事業系統図によって示すと次のとおりであります。
+
+ 
+
+

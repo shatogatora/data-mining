@@ -1,0 +1,112 @@
+ 
+２ 【沿革】
+
+
+
+
+
+
+
+年月
+
+概要
+
+
+
+2005年１月
+
+リックソフト有限会社を設立
+
+
+
+2009年４月
+
+有限会社から株式会社に組織変更事業拡大のため、本社を東京都千代田区大手町に移転
+
+
+
+2009年５月
+
+Atlassian Pty Ltd.（注）とパートナー契約を締結
+
+
+
+2012年５月
+
+WBSガントチャート for JIRA販売開始
+
+
+
+2013年５月
+
+情報セキュリティマネジメントシステム「ISO27001」の認証を取得
+
+
+
+2014年５月
+
+RickCloud（Atlassian製品のクラウドサービス）のサービスを提供開始
+
+
+
+2014年５月
+
+Alfresco Software, Inc.とパートナー契約を締結
+
+
+
+2015年12月
+
+Issue Editor for JIRA（Excel-like Issue Editor）販売開始 
+
+
+
+2016年１月
+
+エイチ・エス・ディー 有限会社を吸収合併愛知県名古屋市に西日本支社を設立
+
+
+
+2016年６月
+
+Alfresco connector for JIRA 販売開始
+
+
+
+2016年９月
+
+Alfresco connector for Confluence 販売開始
+
+
+
+2016年12月
+
+米国法人Ricksoft, Inc.設立（現：連結子会社）
+
+
+
+2017年３月
+
+Tableau Software, Inc.とのパートナー契約を締結
+
+
+
+2017年４月
+
+Excel-like Issue Editor for JIRA Cloud （クラウド版）販売開始
+
+
+
+2017年７月
+
+クラウドサービスセキュリティ管理策のためのガイドライン「ISO27017」の認証を取得
+
+
+
+2019年２月
+
+東京証券取引所マザーズ市場に上場
+
+
+ 
+ （注）Atlassian Pty Ltd.は、オーストラリアのシドニーに本社を置くソフトウェア企業で、主にソフトウェア開発者を対象とした法人向けソフトウェアを開発しており、Atlassian Pty Ltd.の親会社であるAtlassian Corporation Plcは2015年12月10日（米国時間）にNASDAQに上場しています。 
