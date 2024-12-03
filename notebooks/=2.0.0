@@ -1,0 +1,24 @@
+Requirement already satisfied: blis in /opt/conda/lib/python3.11/site-packages (1.0.1)
+Requirement already satisfied: numpy in /opt/conda/lib/python3.11/site-packages (2.0.2)
+Collecting scipy==1.9.3
+  Using cached scipy-1.9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (58 kB)
+Collecting numpy
+  Using cached numpy-1.25.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (5.6 kB)
+INFO: pip is looking at multiple versions of blis to determine which version is compatible with other requirements. This could take a while.
+Collecting blis
+  Using cached blis-1.0.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (7.6 kB)
+  Using cached blis-0.9.1.tar.gz (3.6 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Using cached scipy-1.9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (33.4 MB)
+Using cached numpy-1.25.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (18.2 MB)
+Building wheels for collected packages: blis
+  Building wheel for blis (pyproject.toml): started
+  Building wheel for blis (pyproject.toml): still running...
+  Building wheel for blis (pyproject.toml): still running...
+  Building wheel for blis (pyproject.toml): still running...
+  Building wheel for blis (pyproject.toml): finished with status 'canceled'
