@@ -1,0 +1,248 @@
+ 
+３ 【事業の内容】
+当社グループは、当社及び子会社31社で構成され、半導体製造装置並びに計測機器の製造販売を主な内容とした事業活動を行っている。
+グループ各社の事業における位置付け及びセグメントとの関連は以下のとおりである。なお、連結財務諸表のセグメント情報におけるセグメント区分と同一の区分である。
+ 
+
+
+
+
+
+
+
+
+半導体製造装置
+
+
+ウェーハプロービングマシン、ウェーハダイシングマシン等半導体製造工程で使用される加工・検査装置を扱う当事業においては、当社が生産の大部分を担当し、子会社㈱東精エンジニアリングが一部関連製品の、子会社ACCRETECH ADAMAS(THAILAND)CO.,LTDが一部消耗部品の生産を行っている。販売及びアフターサービスについては、当社が中心となって行い、ソフトウェアについては、子会社㈱トーセーシステムズが主に供給を担当している。
+海外への販売については当社による輸出のほか、米州地域では子会社ACCRETECH AMERICA INCが、欧州地域では子会社ACCRETECH(EUROPE)GmbHが、アジア地域では子会社ACCRETECH KOREA CO.,LTD、東精精密設備(上海)有限公司、ACCRETECH TAIWAN CO.,LTD等がそれぞれ行っている。
+<主な関係会社>
+㈱東精エンジニアリング、㈱トーセーシステムズ、ACCRETECH AMERICA INC、
+ACCRETECH(EUROPE)GmbH、ACCRETECH KOREA CO.,LTD、東精精密設備(上海)有限公司、 ACCRETECH TAIWAN CO.,LTD、ACCRETECH(MALAYSIA)SDN BHD、ACCRETECH ADAMAS(THAILAND)CO.,LTD
+ 
+
+
+
+
+計測機器
+
+
+三次元座標測定機、表面粗さ・輪郭形状測定機等の精密測定機器類を扱う当事業においては、当社及び子会社㈱東精エンジニアリングが生産と販売の大部分を担当し、ソフトウェアについては、子会社㈱トーセーシステムズが主に供給を担当している。なお、一部の製品については、子会社東精計量儀(平湖)有限公司や子会社TOSEI(THAILAND)CO.,LTDによる海外現地生産も行われている。
+海外への販売については当社及び子会社㈱東精エンジニアリングによる輸出のほか、米州地域では子会社TOSEI AMERICA.,INCが、欧州地域では子会社ACCRETECH(EUROPE)GmbHが、アジア地域では子会社ACCRETECH KOREA CO.,LTD、東精精密設備(上海)有限公司等がそれぞれ行っている。
+<主な関係会社>
+㈱東精エンジニアリング、㈱トーセーシステムズ、ACCRETECH(EUROPE)GmbH
+ACCRETECH KOREA CO.,LTD、東精精密設備(上海)有限公司、ACCRETECH(THAILAND)CO.,LTD、東精計量儀(平湖)有限公司、TOSEI(THAILAND)CO.,LTD、TOSEI AMERICA.,INC
+
+
+
+ 
+
+ 
+当社を中心としたグループ各社の位置づけは次のとおりである。
+
+
+　
+連結子会社及び非連結子会社は次のとおりである。
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+連結子会社
+
+
+非連結子会社
+
+
+関連会社
+
+
+
+
+会社名
+
+
+㈱東精エンジニアリング
+
+
+ACCRETECH(SINGAPORE)PTE LTD
+
+
+該当会社なし
+
+
+
+
+㈱トーセーシステムズ
+
+
+ACCRETECH VIETNAM CO.,LTD
+
+
+ 
+
+
+
+
+㈱アクレーテク・クリエイト
+
+
+PT ACCRETECH INDONESIA
+
+
+ 
+
+
+
+
+㈱東精ボックス
+
+
+ACCRETECH DO BRASIL LTDA
+
+
+ 
+
+
+
+
+㈱アクレーテク・ファイナンス
+
+
+TOSEI KOREA CO.,LTD
+
+
+ 
+
+
+
+
+ACCRETECH AMERICA INC
+
+
+TOSEI TAIWAN CO.,LTD
+
+
+ 
+
+
+
+
+ACCRETECH(EUROPE)GmbH
+
+
+PT TOSEI INDONESIA
+
+
+ 
+
+
+
+
+ACCRETECH KOREA CO.,LTD
+
+
+TOSEI ENGINEERING MALAYSIA SDN BHD
+
+
+ 
+
+
+
+
+東精精密設備(上海)有限公司
+
+
+TOSEI PHILIPPINES CORPORATION
+
+
+ 
+
+
+
+
+ACCRETECH TAIWAN CO.,LTD
+
+
+TOSEI ENGINEERING PRIVATE LIMITED
+
+
+ 
+
+
+
+
+ACCRETECH(MALAYSIA)SDN BHD
+
+
+TOSEI CANADA MEASURING INC
+
+
+ 
+
+
+
+
+ACCRETECH ADAMAS(THAILAND)CO.,LTD
+
+
+TOSEI MEXICO S.A.DE.C.V
+
+
+ 
+
+
+
+
+ACCRETECH(THAILAND)CO.,LTD
+
+
+TOSEI BRASIL COMÉRCIO DE INSTRUMENTOSDE MEDIÇÃO LTDA
+
+
+ 
+
+
+
+
+東精計量儀(平湖)有限公司
+
+
+ 
+
+
+
+
+TOSEI(THAILAND)CO.,LTD
+
+
+ACCRETECH-TOSEI HUNGARY KFT
+
+
+ 
+
+
+
+
+TOSEI AMERICA.,INC
+
+
+東精精密設備(平湖)有限公司
+
+
+ 
+
+
+
+ 
+
+　
