@@ -1,0 +1,117 @@
+３【事業の内容】
+　当社グループ（当社および当社の関係会社、以下同じ）は、当社、子会社27社および関連会社３社で構成され、電子光学機器、分析機器、計測検査機器、産業機器、医用機器の製造販売を主な内容とし、更にこれらに附帯する製品・部品の加工委託、保守・サービス、周辺機器の仕入販売を営んでおります。
+　当社グループの事業に係る位置付けは次の通りであります。
+　なお、「第５　経理の状況　１．連結財務諸表等　(1）連結財務諸表　注記事項」に掲げるセグメント情報の区分は、電子光学機器、分析機器および計測検査機器を理科学・計測機器事業、産業機器を産業機器事業、医用機器を医用機器事業としております。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+区分
+
+
+主要製品
+
+
+主要な会社
+
+
+
+
+
+
+電子光学機器
+
+
+透過電子顕微鏡、エネルギーフィルタ電子顕微鏡、電子プローブマイクロアナライザ、オージェマイクロプローブ、光電子分光装置、電子顕微鏡周辺機器
+
+
+当社、山形クリエイティブ㈱、その他１社（国内）
+JEOL USA,INC.、JEOL(EUROPE)SAS、JEOL(U.K.)LTD.、
+JEOL(EUROPE)B.V.、JEOL(SKANDINAVISKA)A.B.、
+JEOL ASIA PTE.LTD.、JEOL(GERMANY)GmbH、
+JEOL(AUSTRALASIA)PTY.LTD.、その他13社（海外）
+
+
+
+
+分析機器
+
+
+核磁気共鳴装置、電子スピン共鳴装置、質量分析計、ポータブルガスクロマトグラフ、ガスモニタ分析装置
+
+
+当社、㈱JEOL RESONANCE、
+JEOL USA,INC.、JEOL(EUROPE)SAS、JEOL(U.K.)LTD.、
+JEOL(EUROPE)B.V.、JEOL(SKANDINAVISKA)A.B.、
+JEOL ASIA PTE.LTD.、JEOL(GERMANY)GmbH、
+JEOL(AUSTRALASIA)PTY.LTD.、その他10社（海外）
+
+
+
+
+計測検査機器
+
+
+走査電子顕微鏡、分析走査電子顕微鏡、走査形プローブ顕微鏡、電子顕微鏡周辺機器、複合ビーム加工観察装置、集束イオンビーム加工観察装置、薄膜試料作製装置、クロスセクションポリッシャ、イオンスライサ、ウエハプロセス評価装置、半導体故障解析装置、蛍光Ｘ線分析装置、ハンドヘルド蛍光Ｘ線分析計
+
+
+当社、日本電子テクニクス㈱、山形クリエイティブ㈱、
+その他１社（国内）
+JEOL USA,INC.、JEOL(EUROPE)SAS、JEOL(U.K.)LTD.、
+JEOL(EUROPE)B.V.、JEOL(SKANDINAVISKA)A.B.、
+JEOL ASIA PTE.LTD.、JEOL(GERMANY)GmbH、
+JEOL(AUSTRALASIA)PTY.LTD.、その他13社（海外）
+
+
+
+
+産業機器
+
+
+電子ビーム描画装置、電子ビーム蒸着用電子銃・電源、直進形電子銃・電源、内蔵型プラズマ銃・電源、高周波誘導熱プラズマ装置、プラズマ発生用高周波電源
+
+
+当社、
+JEOL USA,INC.、JEOL(EUROPE)SAS、JEOL(U.K.)LTD.、
+JEOL(EUROPE)B.V.、JEOL(SKANDINAVISKA)A.B.、
+JEOL ASIA PTE.LTD.、JEOL(GERMANY)GmbH、
+JEOL TAIWAN SEMICONDUCTORS LTD.、
+JEOL(AUSTRALASIA)PTY.LTD.、その他６社（海外）
+
+
+
+
+医用機器
+
+
+自動分析装置、検体自動搬送システム、臨床検査情報処理システム、全自動アミノ酸分析機
+
+
+当社、山形クリエイティブ㈱
+JEOL(EUROPE)SAS、JEOL(U.K.)LTD.
+
+
+
+
+
+ 
+　事業の系統図は次の通りであります。
+ 
+
+
+
+（注）１．無印　連結子会社
+※１　非連結子会社で持分法適用会社
+※２　関連会社で持分法適用会社
+２．JEOL GULF FZEについては、当連結会計年度に新規設立したことにより、持分法適用の範囲に含めております。
