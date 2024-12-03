@@ -1,0 +1,32 @@
+３【事業の内容】
+　当社グループは、当社、子会社20社及び関連会社１社で構成され、半導体、電子部品、電子応用機器等、国内外のエレクトロニクス商品の仕入販売を主な事業内容としております。
+　当社グループの事業に係わる位置付け及び事業の種類別セグメントとの関連は、次のとおりであり、事業の種類別セグメント情報における事業区分と同一であります。
+ 
+デバイス事業　　当社が販売するほか、子会社丸文セミコン株式会社、Marubun Semicon(Shanghai) Co., Ltd.、Marubun Semicon(H.K.) Ltd.、Marubun Semicon (S) Pte. Ltd.、Marubun Taiwan, Inc.、Marubun/Arrow (S) Pte Ltd.、Marubun/Arrow (HK) Ltd.、Marubun Arrow (Thailand) Co., Ltd.、Marubun/Arrow (Phils) Inc.、Marubun/Arrow (Shanghai) Co., Ltd.、Marubun Arrow (M) SDN BHD.、Marubun/Arrow (Shenzhen) Electronic Product Consulting Co., Ltd.及びPT.Marubun Arrow Indonesiaにおいても販売しております。なお、商品の一部について上記連結会社間で売買取引があります。
+子会社Marubun/Arrow Asia,Ltd.は、電子部品等の販売会社（Marubun/Arrow (S) Pte Ltd.及びMarubun/Arrow (HK) Ltd.）の全株式を保有する持株会社であります。
+関連会社Marubun/Arrow USA,LLC.は、電子部品等の販売をしており、商品の一部について当社との間で売買取引があります。
+
+　子会社Marubun USA Corporationは、Marubun/Arrow USA, LLC.の50.0%の持分を保有する持株会社であります。
+
+
+主な商品は下記のとおりであります。
+
+半導体（アナログＩＣ、標準ロジックＩＣ、メモリーＩＣ、マイクロプロセッサ、特定用途ＩＣ、カスタムＩＣ）、電子部品（ディスプレイパネル、タッチパネル、水晶振動子、コネクタ、プリント基板等）
+ 
+システム事業　　当社が販売するほか、子会社丸文通商株式会社、株式会社北信理化、株式会社池田医療電機及び丸文ウエスト株式会社においても販売しております。なお、商品の一部について上記連結会社間で売買取引があります。
+子会社株式会社フォーサイトテクノは、電子応用機器の保守・技術サービスを行っており、当社及び国内連結子会社は当該業務の一部を委託しております。
+
+主な商品は下記のとおりであります。
+
+航空宇宙機器、試験計測機器、科学機器、レーザ機器、医用機器
+
+以上の事項を事業の系統図によって示すと、次のとおりであります。
+
+
+
+
+ 
+（注）１．Marubun USA Corporationは、Marubun/Arrow USA, LLC.の持株会社であります。
+２．Marubun/Arrow Asia, Ltd.は、電子部品等の販売会社（Marubun/Arrow (S) Pte Ltd.及びMarubun/Arrow (HK) Ltd.）の全株式を保有する持株会社であり、商品の一部について当社及びMarubun Taiwan, Inc.と当該販売会社間で売買取引があります。
+３．前連結会計年度において持分法適用の関連会社でありました株式会社池田医療電機は、当連結会計年度において株式を追加取得したため、連結の範囲に含めております。
+ 

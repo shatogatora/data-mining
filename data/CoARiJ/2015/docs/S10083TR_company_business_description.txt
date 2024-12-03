@@ -1,0 +1,52 @@
+３【事業の内容】
+ＮＴＴグループ（当社および当社の関係会社）は、当社（日本電信電話株式会社）、子会社907社および関連会社122社（平成28年３月31日現在）により構成されており、地域通信事業、長距離・国際通信事業、移動通信事業およびデータ通信事業を主な事業内容としております。
+なお、当社は、有価証券の取引等の規制に関する内閣府令第49条第２項に規定する特定上場会社等に該当しており、これにより、インサイダー取引規制の重要事実の軽微基準については連結ベースの数値に基づいて判断することとなります。
+ 
+連結子会社の事業内容及び当該事業に係る位置付けにつきましては、次のとおりであります。
+なお、次の５事業は連結財務諸表の注記18に掲げるセグメント情報の区分と同一であります。
+ 
+①地域通信事業
+当事業は、国内電気通信事業における県内通信サービスの提供及びそれに附帯する事業を主な事業内容としております。
+（連結子会社）
+
+東日本電信電話株式会社、　西日本電信電話株式会社、　株式会社ＮＴＴ東日本－南関東、　株式会社エヌ・ティ・ティ　エムイー、　エヌ・ティ・ティ・インフラネット株式会社、　株式会社ＮＴＴ東日本サービス、　ＮＴＴビジネスソリューションズ株式会社、　株式会社エヌ・ティ・ティ　ネオメイト、　株式会社エヌ・ティ・ティ　マーケティング　アクト、　株式会社ＮＴＴフィールドテクノ、　ＮＴＴタウンページ株式会社、　ＮＴＴ印刷株式会社、　テルウェル東日本株式会社、　株式会社エヌ・ティ・ティ・ソルコ、　株式会社エヌ・ティ・ティ・カードソリューション、　株式会社ＮＴＴ東日本プロパティーズ、　エヌ・ティ・ティ・ソルマーレ株式会社、　株式会社ＮＴＴ西日本アセット・プランニング、　テルウェル西日本株式会社　　他33社
+
+ 
+②長距離・国際通信事業
+当事業は、国内電気通信事業における県間通信サービス、国際通信事業、ソリューション事業及びそれに関連する事業を主な事業内容としております。
+（連結子会社）
+
+エヌ・ティ・ティ・コミュニケーションズ株式会社、　Dimension Data Holdings plc、　株式会社エヌ・ティ・ティ　ピー・シー　コミュニケーションズ、　株式会社ＮＴＴぷらら、　エヌ・ティ・ティ　レゾナント株式会社、　NTT America, Inc.、　NTT EUROPE LTD.、　NTT AUSTRALIA PTY. LTD.、　 NTT Communications Deutschland AG（*１）、　NTT Com Security AG（*１）、　Virtela Technology Services Incorporated、　RagingWire Data Centers, Inc.、　RW Holdco Inc.、　RW Midco Inc.、　Arkadin International SAS、　GYRON INTERNET LIMITED、　NETMAGIC SOLUTIONS PRIVATE LIMITED、　NETMAGIC IT SERVICES PRIVATE LIMITED、　Lux e-shelter 1 S.a.r.l.、　Lux e-shelter 3 S.a.r.l.、　e-shelter Services Holding GmbH 、　e-shelter Properties Holding S.a.r.l.、　Spectrum Holdings Inc.、　Dimension Data Commerce Centre Limited、　Dimension Data (U.S.) II, Inc.、　Dimension Data (U.S.) Inc.、　Dimension Data North America, Inc.、　Dimension Data International Limited、　Dimension Data Holdings Nederland B.V.、　Dimension Data Australia Pty Limited、　Dimension Data Cloud Solutions Australia Pty Ltd、　Solutionary, Inc.、　NTT Innovation Institute, Inc.　　他350社
+ 
+③移動通信事業
+当事業は、携帯電話事業及びそれに関連する事業を主な事業内容としております。
+（連結子会社）
+株式会社ＮＴＴドコモ、　株式会社ドコモＣＳ、　ドコモ・サポート株式会社、　ドコモ・システムズ株式会社、　ドコモ・テクノロジ株式会社、　DOCOMO Guam Holdings, Inc.、　DOCOMO PACIFIC, INC.（*２）、　DOCOMO PACIFIC(SAIPAN), INC.、　株式会社Ｄ２Ｃ、　株式会社ｍｍｂｉ（*３）、　株式会社オークローンマーケティング、　タワーレコード株式会社、　株式会社ＮＴＴドコモ・ベンチャーズ、　株式会社ＡＢＣ　Ｃｏｏｋｉｎｇ　Ｓｔｕｄｉｏ、　株式会社ドコモ・アニメストア、　ドコモ・ヘルスケア株式会社、　DOCOMO Digital GmbH（*４）、　Buongiorno S.p.A.、　net mobile AG、　DOCOMO Innovations, Inc.（*５）、 DCM Reinsurance Company, Inc.　　他104社
+ 
+④データ通信事業
+当事業は、システムインテグレーション、ネットワークシステムサービス等の事業を主な事業内容としております。
+（連結子会社）
+株式会社エヌ・ティ・ティ・データ、　株式会社ＮＴＴデータ・アイ、　株式会社エヌ・ティ・ティ・データ関西、　株式会社エックスネット、　日本電子計算株式会社、　株式会社エヌ・ティ・ティ・データ・イントラマート、　株式会社ＪＳＯＬ、　株式会社エヌジェーケー、　エヌ・ティ・ティ・データ・カスタマサービス株式会社、　NTT Data International L.L.C.、　NTT DATA EUROPE GmbH & CO. KG 、　itelligence AG、　NTT DATA Deutschland GmbH、　NTT DATA, Inc.、　NTT DATA EMEA LTD.、　NTT DATA Enterprise Services Holding, Inc.、　NTT DATA ASIA PACIFIC PTE. LTD.、　EVERIS PARTICIPACIONES, S.L.U.、　恩梯梯数据（中国）投資有限公司、　Carlisle & Gallagher Consulting Group, Inc.（*６）　　他238社
+ 
+ 
+⑤その他の事業
+当事業には、日本電信電話株式会社の事業及び不動産事業、金融事業、建築・電力事業、システム開発事業、先端技術開発事業等が含まれております。
+（連結子会社）
+エヌ・ティ・ティ都市開発株式会社、　UD EUROPE LIMITED、　Downtown Properties Owner, LLC、　ＮＴＴファイナンス株式会社、　株式会社ＮＴＴファシリティーズ、　エヌ・ティ・ティ・コムウェア株式会社、　エヌ・ティ・ティ・アドバンステクノロジ株式会社、　ＮＴＴエレクトロニクス株式会社、　エヌ・ティ・ティ・ソフトウェア株式会社、　株式会社エヌ・ティ・ティ・アド、　株式会社情報通信総合研究所、　エヌ・ティ・ティ　ラーニングシステムズ株式会社、エヌ・ティ・ティ・ビジネスアソシエ株式会社、　株式会社エヌ・ティ・ティ・ロジスコ、　エヌ・ティ・ティ・ブロードバンドプラットフォーム株式会社　他74社
+ 
+（注）１.本有価証券報告書では、「ＮＴＴ東日本」は東日本電信電話株式会社、「ＮＴＴ西日本」は西日本電信電話株式会社、「ＮＴＴコミュニケーションズ」はエヌ・ティ・ティ・コミュニケーションズ株式会社、「ＮＴＴドコモ」は株式会社ＮＴＴドコモ、「ＮＴＴデータ」は株式会社エヌ・ティ・ティ・データ、「ＮＴＴレゾナント」はエヌ・ティ・ティ　レゾナント株式会社、「ＮＴＴぷらら」は株式会社ＮＴＴぷららを示しています。
+２.*１：平成28年6月2日付にて、NTT Communications Deutschland AGはNTT Com Securiy AGを吸収合併し、NTT Security AGに商号変更しました。
+
+３.*２：平成28年１月１日付にて、MCV Guam Holding Corp.はDOCOMO PACIFIC, INC.に吸収合併されました。
+
+４.*３：平成28年７月１日付にて、株式会社ｍｍｂｉは株式会社ＮＴＴドコモに吸収合併される予定です。
+５.*４：平成27年10月15日付にて、DOCOMO Deutschland GmbHはDOCOMO Digital GmbHに商号変更しました。
+６.*５：平成27年10月１日付にて、DOCOMO Capital, Inc.はDOCOMO Innovations, Inc.を吸収合併し、DOCOMO Innovations, Inc.に商号変更しました。
+７.*６：平成28年４月14日付にて、Carlisle & Gallagher Consulting Group, Inc.はNTT DATA Consulting, Inc.に商号変更しました。
+ 
+　なお、事業系統図につきましては次頁のとおりであります。
+ 
+
+
+
+ 
