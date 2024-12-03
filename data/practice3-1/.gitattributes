@@ -1,0 +1,2 @@
+2ch_thread_archive_2020.txt filter=lfs diff=lfs merge=lfs -text
+testset1m.txt filter=lfs diff=lfs merge=lfs -text
