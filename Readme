@@ -1,0 +1,5 @@
+docker-compose up -d && docker-compose logs -f
+
+requirements.txtについては結局使ってないので、ほぼ電子ごみみたいなものです
+実際にコンテナ立ち上げまではできたのですが、実際にjupyter lab上で実行しようとしたところ、コンフリクトだらけでした
+なのでDockerfileでrequirements.txtからpip installしようとしている部分はコメントアウトしてあります
