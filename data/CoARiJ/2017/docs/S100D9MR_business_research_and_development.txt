@@ -1,0 +1,9 @@
+５【研究開発活動】
+
+当連結会計年度における当社グループの研究活動状況は次のとおりであります。
+
+
+今後、益々、様々なサービスが登場するIoT(Internet of Things)時代を見据え、VMware社のSDDC(Software-Defined Data Center)アーキテクチャを採用した次世代クラウドサービスNGEC(Next Generation EASY Cloud®)基盤をベースに、先進的IoT・ドローン関連技術の調査及び実証実験を行い、これらを支えるクラウドサービス技術の更なる強化を目的とした研究開発に傾注致しました。ドローンの自動飛行により取得した膨大な画像データ、センシングデータ、フライトデータをNGECに蓄積し、NVIDIA社のGPU（Graphics Processing Unit）クラウド環境で、編集、分析・解析し、VDI（Virtual Desktop Infrastructure）クラウド基盤での提供に必要な要素技術を習得しました。この要素技術は今後の建設業界の標準デザインアーキテクチャとしてのBIM(Building Information Modeling) /CIM(Construction Information Modeling)に繋がるものと考えており、建設業界でのドローンの活用をより促進し、当社グループのクラウドサービスとして、新たなサービスの創設にも繋がると考えております。
+ 
+　なお、当連結会計年度における研究開発費用は、25,165千円であります。
+ 

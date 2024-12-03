@@ -1,0 +1,148 @@
+３【事業の内容】
+　当社グループは、当社及び連結子会社18社（MIMAKI USA, INC.、MIMAKI EUROPE B.V.、台湾御牧股份有限公司、㈱ミマキプレシジョン、㈱グラフィッククリエーション、御牧噴墨打印科技（浙江）有限公司、Mimaki Deutschland GmbH、上海御牧貿易有限公司、MIMAKI BRASIL COMERCIO E IMPORTACAO LTDA、平湖御牧貿易有限公司、PT. MIMAKI INDONESIA、MIMAKI AUSTRALIA PTY LTD、MIMAKI SINGAPORE PTE. LTD.、MIMAKI INDIA PRIVATE LIMITED、MIMAKI EURASIA DIJITAL BASKI TEKNOLOJILERI PAZARLAMA VE TICARET LIMITED SIRKETI、Mimaki La Meccanica S.p.A、Mimaki Lithuania, UAB、Mimaki Bompan Textile S.r.l）、その他２社（MIMAKI KANPHOR INDIA PRIVATE LIMITEDほか）の計21社により構成され、産業用インクジェットプリンタ、カッティングプロッタ等の開発・製造・販売を主たる業務とした単一事業を営んでおり、報告セグメントは地域別としております。
+
+　また、エンドユーザーの属する市場別に分類した事業の内容は次のとおりであります。
+
+(1）SG（サイングラフィックス）市場向け
+　広告・看板等の製作に使用されるサイングラフィックス市場向けの製品を開発・製造・販売しております。クイックレスポンス、コスト削減、高画質が求められデジタル化が進むサイングラフィックス市場に向け、用途やプリント素材に応じてインクを使い分けた広幅インクジェットプリンタや、文字・ロゴ・イラスト等の輪郭をカットするカッティングプロッタ等が該当いたします。
+(2）IP（インダストリアルプロダクツ）市場向け
+　工業製品のほか、一般消費者向けの商品やギフト、ノベルティ、オーダーグッズ等の生産現場等で使用される製品を開発・製造・販売しております。ユーザーの生産合理化やコスト削減の実現に資するために、対象業種を問わず多種多様な素材にプリント可能なフラットベッド型のUV硬化インクジェットプリンタやカッティングプロッタ等が該当いたします。
+(3）TA（テキスタイル・アパレル）市場向け
+
+　裁断・縫製加工前の生地（テキスタイル）や既製服（アパレル）等の布地にプリント可能な製品を開発・製造・販売しております。ポリエステル素材への昇華プリントや、綿や絹等の生地へのダイレクト捺染が可能なインクジェットプリンタ等が該当し、サンプル製作や多品種少量生産等クイックレスポンスを必要とするユーザーにお応えしております。
+
+　上記SG・IP・TA各市場向けの製品開発につきましては、当社が行っております。製造につきましては、当社のほか、主力製品の一部製造を御牧噴墨打印科技（浙江）有限公司、Mimaki La Meccanica S.p.Aが、インクの一部製造を御牧噴墨打印科技（浙江）有限公司、台湾御牧股份有限公司、Mimaki Lithuania, UAB及びMIMAKI EUROPE B.V.が行っております。また、部品の一部を平湖御牧貿易有限公司、台湾御牧股份有限公司、㈱ミマキプレシジョンより調達しております。販売につきましては、当社が国内及びアジア・オセアニアの一部において行い、海外の主要な地域においては、MIMAKI USA,INC.（北米）、MIMAKI EUROPE B.V.（欧州）、Mimaki Deutschland GmbH（ドイツ）、MIMAKI EURASIA DIJITAL BASKI TEKNOLOJILERI PAZARLAMA VE TICARET LIMITED SIRKETI（トルコ）、Mimaki Lithuania, UAB（リトアニア）、Mimaki Bompan Textile S.r.l（イタリア）、台湾御牧股份有限公司（台湾）、上海御牧貿易有限公司（中国）、MIMAKI BRASIL COMERCIO E IMPORTACAO LTDA（ブラジル）、MIMAKI INDIA PRIVATE LIMITED（インド）、PT. MIMAKI INDONESIA（インドネシア）、MIMAKI AUSTRALIA PTY LTD（オーストラリア）、MIMAKI SINGAPORE PTE. LTD.（シンガポール）が行っております。
+(4）保守部品
+
+　当社製品をお使いいただくうえで必要なアフターメンテナンスに要する部品が該当いたします。主に当社において製造・販売しております。
+
+(5）その他
+　上記のいずれの市場にも属さない特注機の製造・販売やプリントサービス等が該当いたします。
+　当社が特注機の製造・販売を行うほか、㈱グラフィッククリエーション及び台湾御牧股份有限公司においてはインターネットを通じたプリントサービス等を行っております。
+
+［市場別分類略図］
+
+
+
+
+ 
+
+［セグメント別会社分類略図］
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+セグメントの名称
+
+
+主な製造会社・販売会社
+
+
+
+
+日本・アジア・
+オセアニア
+
+
+販売会社
+
+
+当社
+上海御牧貿易有限公司
+台湾御牧股份有限公司
+PT. MIMAKI INDONESIA
+MIMAKI AUSTRALIA PTY LTD
+MIMAKI SINGAPORE PTE. LTD.
+MIMAKI INDIA PRIVATE LIMITED
+
+
+
+
+製造会社
+
+
+当社
+㈱ミマキプレシジョン
+御牧噴墨打印科技（浙江）有限公司
+
+台湾御牧股份有限公司
+
+
+
+
+
+北・中南米
+
+
+販売会社
+
+
+MIMAKI USA,INC.
+
+MIMAKI BRASIL COMERCIO E IMPORTACAO LTDA
+
+
+
+
+
+欧州・中東・
+
+アフリカ
+
+
+
+販売会社
+
+
+MIMAKI EUROPE B.V.
+Mimaki Deutschland GmbH
+MIMAKI EURASIA DIJITAL BASKI TEKNOLOJILERI PAZARLAMA
+    VE TICARET LIMITED SIRKETI
+
+Mimaki Lithuania, UAB
+
+Mimaki Bompan Textile S.r.l
+
+
+
+
+製造会社
+
+
+MIMAKI EUROPE B.V.
+
+Mimaki La Meccanica S.p.A
+
+
+Mimaki Lithuania, UAB
+
+
+
+
+
+
+ 
+
+［事業系統図］
+
+　以上述べた事項を事業系統図によって示すと次のとおりであります。
+
+
+
+
+ （注）全て連結子会社であります。
+
+ 
